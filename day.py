@@ -82,3 +82,4 @@ print(names1)
 
 nameee = names + numbers
 print(nameee)
+print(len(nameee))
